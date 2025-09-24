@@ -5,6 +5,13 @@ main {
     height: calc(100vh - 120px);
 }
 
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
 form {
     padding: 40px 30px;
     border-radius: 12px;
